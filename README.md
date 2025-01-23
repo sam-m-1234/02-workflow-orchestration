@@ -2,8 +2,6 @@
 
 ### Question 1:
 
-#### Notes
-
 In `02_postgres_taxi.yaml`, update the below block
 
 ```yaml
